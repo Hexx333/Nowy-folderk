@@ -1,0 +1,1 @@
+finally Number isNaN

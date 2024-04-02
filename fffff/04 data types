@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <body>
+        <script>
+            const carBrands = ["Dodge", "Audi", "BMWx5"]
+            console.log(carBrands);
+            console.log(carBrands.lenght); // 4
+
+            console.log(carBrands[1]); // BMWx5
+
+            /* 
+
+                -temperatura
+                -boolean true/false
+                -tablice samochodów w salonie
+
+                */
+               let temperature = 3.5;
+               let rainingFlag = false;
+               let carsInsaloon = "BMWx5"
+               console.log(carsInsaloon)
+        </script>
+        </body>conn
+    </head>
+</html>

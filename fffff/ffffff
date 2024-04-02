@@ -1,0 +1,28 @@
+<!Doctype <html lang="en">
+
+</html>
+
+<head>
+    <meta charset="UTF-8>
+    <meta http-wquiv=" X-UA-Compatibile" content="IE-Edge" <meta name="viewport" content="width=device-width" ,
+        initial-scale="1.0">
+    <title>document</title>
+</head>
+
+<body>
+    <script>
+        /*
+            1. 1,3,5,7,
+            (5+9) / 2;  // 7
+            */
+        let averageNumber = "(1 + 3 + 5 + 7)" / 4;
+        console.log("Srednia z liczb :" + averageNumber)
+    </script>
+</body>
+select FirstName as Imie,
+LastName as Nazwisko,
+PersonType
+from Person.Person
+order by 2, 1
+
+</html>

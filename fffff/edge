@@ -1,0 +1,39 @@
+<!Doctype>
+<html lang = "en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatibile" content="IE=edge">
+        <meta name="viewport" content="width=device-width", initial-scale="1.0">
+        <title> Edge</title>
+        <script>
+            // liczby
+            let someinteger = 5 /liczba całkowita
+            letsomeDecimal = 3.5 /liczba dziesiętna
+            //tekst piszemy w apostrofach lub cudzysłowiach
+             let someString = "Witaj Świecie"
+             let otherString = "content"
+
+             //typy Boolan czyli wartości true lub false
+             let messageSentFlag = false
+             let apllicationStarted = true;
+             let txt  ="i will show You My apllication"
+             startMultiline  ='text w wielu liniach działa poprawnie i si klaro'
+
+             //tworzymy tablicę i dodajemy od razu 4 elementy
+
+             let tab = [3, "win" , 12,98]
+             let tab = [4,7,9,61]
+             let tab = [6,3,9,1]
+             
+             // pobieramy element z tablicy podając numer indeksu
+             //indeksy liczone są od 0, co znaczy, że drugi indeks będzie miał wartość 1
+             console.log("drugi element tablicy" +tab[1])
+             // wyświetli  drugi element tablicy: tekst
+
+        
+            </script> 
+    </head>
+    </html>            
+
+
+

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang ="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatibile" content="IE=edge">
+        <meta name="viewport=100vw" content="width=device-width=60px", initial-scale="1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        <script>
+            console.log(data);
+
+            
+            let data; 
+
+            data = 10;
+                        value = "test";
+            consolelog(value);
+            const maxNumber = 1000;
+            console.log(maxNumber);
+
+            maxNumber=1000
+            
+        </script>
+    </body>
+</html>
